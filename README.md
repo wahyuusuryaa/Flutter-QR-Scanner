@@ -1,2 +1,3 @@
-# Flutter-QR-Scanner
-Scan and open your browser automatically!
+# qr_scanners
+
+A new Flutter project.
